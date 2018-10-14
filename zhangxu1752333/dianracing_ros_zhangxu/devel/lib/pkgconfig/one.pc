@@ -1,0 +1,8 @@
+prefix=/home/zhangxu/dianracing_ros_zhangxu/devel
+
+Name: one
+Description: Description of one
+Version: 0.0.0
+Cflags: -I/home/zhangxu/dianracing_ros_zhangxu/devel/include
+Libs: -L/home/zhangxu/dianracing_ros_zhangxu/devel/lib 
+Requires: 

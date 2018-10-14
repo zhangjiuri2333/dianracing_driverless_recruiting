@@ -1,0 +1,2 @@
+one
+-DCATKIN_DEVEL_PREFIX=/home/zhangxu/dianracing_ros_zhangxu/devel -DCMAKE_INSTALL_PREFIX=/home/zhangxu/dianracing_ros_zhangxu/install -G Unix Makefiles
